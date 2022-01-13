@@ -19,7 +19,7 @@ Jinja2==2.10
 lxml==3.8.0
 MarkupSafe==1.0
 olefile==0.44
-Pillow==6.2.0
+Pillow==9.0.0
 pycparser==2.18
 pyee==3.0.3
 pyOpenSSL==17.3.0
